@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590478938165.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "604624A",
+    "lastKnownWriteTime" : 2278708405672,
+    "last_content_update" : 1590478938165,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E48486A3",
+        "caption" : "Salary_up_5percent_kind",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Salary_up_5percent_kind&cache_key=E48486A3",
+        "displayedObservations" : 19,
+        "environment" : "",
+        "expression" : "Salary_up_5percent_kind",
+        "object" : "Salary_up_5percent_kind",
+        "preview" : 0,
+        "totalObservations" : 19,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
